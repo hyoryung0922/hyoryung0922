@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hyoryung0922
+- 😄 Pronouns: she/her
+- 👀 I’m interested in LLMs and Tokenizers
