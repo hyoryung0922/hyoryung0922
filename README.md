@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @hyoryung0922
+- 👋 Hi, I’m @hyoryung0922, you can call me Michelle
 - 😄 Pronouns: she/her
 - 👀 I’m interested in LLMs and Tokenizers
